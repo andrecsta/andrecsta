@@ -1,5 +1,6 @@
 
 
+
 ### 
   
 <div align="center">
@@ -23,9 +24,9 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<td align="left" width="33%">
 
-<div align="center">  
+<div align="left">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
 </div>
@@ -38,7 +39,7 @@
 
 
 
-</td></tr></table>  
+</td> 
 
 <br/>  
 
